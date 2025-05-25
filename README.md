@@ -52,9 +52,17 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mahesh-suryawanshi-768905257/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:maheshascoder@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mahesh-suryawanshi-768905257/" target="_blank" style="margin-right: 50;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="32" width="32" />
+  </a>
+  <a href="mailto:maheshascoder@gmail.com" target="_blank" style="margin-right: 50;">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="32" width="32"/>
+  </a>
+  <a href="https://leetcode.com/u/maheshascoder/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-maheshascoder-orange?style=flat&logo=leetcode&logoColor=white" />
+</a>
 </p>
+
 
 ---
 
